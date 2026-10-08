@@ -1,0 +1,12 @@
+langgraph
+langgraph-checkpoint
+langchain-openai
+google-search-results
+beautifulsoup4
+lxml
+trafilatura
+fastapi[standard]
+uvicorn
+python-dotenv
+httpx
+requests

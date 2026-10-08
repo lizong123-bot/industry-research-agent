@@ -1,0 +1,12 @@
+# .gitignore
+.env
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+.vscode/
+checkpoints.db
+data/
+diag.txt
+*.log
+.pytest_cache/
